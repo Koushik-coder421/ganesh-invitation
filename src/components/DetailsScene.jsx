@@ -57,6 +57,21 @@ export function DetailsScene({
 
               <div className="divider"></div>
 
+              {/* Chief Guest Section */}
+              {CONFIG.chiefGuest && (
+                <>
+                  <div className="field field--guest">
+                    <p className="field__label">🌟 Chief Guest (प्रमुख पाहुणे)</p>
+                    <p className="field__value field__value--guest">{CONFIG.chiefGuest}</p>
+                    {CONFIG.chiefGuestMarathi && (
+                      <p className="field__note">{CONFIG.chiefGuestMarathi}</p>
+                    )}
+                  </div>
+
+                  <div className="divider"></div>
+                </>
+              )}
+
               {/* ONLY Evening Aarti */}
               <div className="field field--highlight">
                 <p className="field__label">🪔 Evening Aarti (सायंकाळची आरती)</p>

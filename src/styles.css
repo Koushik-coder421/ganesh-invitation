@@ -934,6 +934,12 @@ p, h1, h2, h3, h4 { margin: 0; }
 /* ===========================================================
    Aarti & Details Scene Enhancements
    =========================================================== */
+.field--guest {
+  background: rgba(9, 44, 92, 0.06);
+  padding: 12px;
+  border-radius: 12px;
+  border-left: 4px solid #092c5c;
+}
 .field--highlight {
   background: rgba(201, 154, 78, 0.12);
   padding: 12px;
@@ -945,6 +951,12 @@ p, h1, h2, h3, h4 { margin: 0; }
   padding: 12px;
   border-radius: 12px;
   border-left: 4px solid var(--primary);
+}
+.field__value--guest {
+  font-size: 18px;
+  font-weight: 700;
+  color: #092c5c;
+  font-family: Marcellus, serif;
 }
 .field__value--time {
   font-size: 22px;

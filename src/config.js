@@ -22,6 +22,12 @@ export const CONFIG = {
 
   dayNote: 'Monday · श्री गणपती उत्सव',
 
+  // =========================
+  // CHIEF GUEST
+  // =========================
+  chiefGuest: 'Mr. Venka Reddy garu',
+  chiefGuestMarathi: 'मा. श्री वेणका रेड्डी गारू',
+
   eveningAarti: '5:30 PM',
 
   aartiCouple: 'Mr. Y. Satish Kumar & Mrs. Y. Shravani',
@@ -33,8 +39,8 @@ export const CONFIG = {
 
   venueName: 'M R ACADEMY',
 
-  address: `Shree Niwas, 12 Tulsi Baug Road,
-Sadashiv Peth, Pune 411030`,
+  address: `Near Laxminarsimha Swamy Temple, SKD Nagar, 
+  B.N. Reddy Nagar, Hyderabad`,
 
   // =========================
   // SPONSORS LIST (सौजन्य)
