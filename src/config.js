@@ -28,10 +28,10 @@ export const CONFIG = {
   chiefGuest: 'Mr. Venka Reddy garu',
   chiefGuestMarathi: 'मा. श्री वेणका रेड्डी गारू',
 
-  eveningAarti: '5:30 PM',
+  eveningAarti: '5:00 PM',
 
-  aartiCouple: 'Mr. Y. Satish Kumar & Mrs. Y. Shravani',
-  aartiCoupleMarathi: 'श्री वाय. सतीश कुमार व सौ. वाय. श्रावणी',
+  aartiCouple: 'Mr. Y. Satish Kumar & Mrs. Y. Renu',
+  aartiCoupleMarathi: 'श्री वाय. सतीश कुमार व सौ. वाय. रेनू',
 
   // =========================
   // VENUE
@@ -49,7 +49,7 @@ export const CONFIG = {
     {
       item: 'Ganesh Idol / Vigraham',
       itemMarathi: 'श्री गणेश मूर्ती सौजन्य',
-      sponsorName: 'Mr. Y. Satish Kumar & Mrs. Y. Shravani',
+      sponsorName: 'Mr. Y. Satish Kumar & Mrs. Y. Renu',
       icon: '/assets/ganesh_idol.jpg'
     },
     {
